@@ -1,5 +1,8 @@
 package observerPattern;
 
+/*
+ * 测试类  （观察者模式）
+ * */
 
 public class WeatherStation {
 //	public static void main(String[] args) {

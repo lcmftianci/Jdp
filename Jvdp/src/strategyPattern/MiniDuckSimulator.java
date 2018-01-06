@@ -1,5 +1,9 @@
 package strategyPattern;
 
+/*
+ * 测试类 （策略模式）
+ * */
+
 public class MiniDuckSimulator {
 	
 //	public static void main(String[] args) {
